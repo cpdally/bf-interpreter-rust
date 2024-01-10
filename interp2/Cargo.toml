@@ -1,0 +1,8 @@
+[package]
+name = "interp2"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "interp2"
+path = "src/interp2.rs"

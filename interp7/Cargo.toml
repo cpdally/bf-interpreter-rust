@@ -1,0 +1,8 @@
+[package]
+name = "interp7"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "interp7"
+path = "src/interp7.rs"

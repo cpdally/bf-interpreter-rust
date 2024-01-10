@@ -1,0 +1,8 @@
+[package]
+name = "interp4"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "interp4"
+path = "src/interp4.rs"
